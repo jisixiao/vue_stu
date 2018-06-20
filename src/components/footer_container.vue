@@ -1,7 +1,4 @@
 <template>
-
-
-
     <section class="footer-container">
       <div class="container">
         <div class="row footer-containertent">
